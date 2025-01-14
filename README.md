@@ -33,8 +33,7 @@ I learned the following things in this project
 
 
 
-Project GitHub Link: https://github.com/Naveen-S6/Business_Insights_360
-
+Project GitHub Link: [Click Here](https://github.com/SangeetG11/Power-BI_Business_Insight_360)
 
 Live PowerBI Dashboard Link: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiN2YwYzhhYWYtMjAzMi00NjE4LWEyNTItNzQ2NTA2MjcyMzk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
